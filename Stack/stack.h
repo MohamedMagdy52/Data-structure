@@ -5,7 +5,7 @@
 
 #define STACK_MAX_SIZE 5
 
-#define STACK_DEBUG               /*remove comment to activate debugging mode*/
+//#define STACK_DEBUG               /*remove comment to activate debugging mode*/
 
 typedef struct stack_ds
 {
